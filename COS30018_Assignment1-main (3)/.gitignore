@@ -1,0 +1,14 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build output
+/bin/
+classes/
+
+# IDE
+*.iml
+
+# OS
+.DS_Store
