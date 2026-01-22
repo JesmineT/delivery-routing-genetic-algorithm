@@ -1,4 +1,4 @@
-This project simulates a Delivery Vehicle Routing System using JADE (Java Agent DEvelopment framework). 
+This project simulates a Delivery Vehicle Routing System using JADE (Java Agent Development framework). 
 The system allows multiple delivery agents to optimize parcel delivery routes based on locations, vehicle capacities, and regions.
 
 Features:
